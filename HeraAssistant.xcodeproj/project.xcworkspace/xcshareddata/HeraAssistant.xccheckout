@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B590E781-4BE5-47E5-96B5-E24BD8BC8403</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HeraAssistant</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82BB86A4-E1BA-411C-B3FF-CBE6EC8428EC</key>
+		<string>https://github.com/magicvoid/HeraAssistant</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HeraAssistant.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82BB86A4-E1BA-411C-B3FF-CBE6EC8428EC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/magicvoid/HeraAssistant</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82BB86A4-E1BA-411C-B3FF-CBE6EC8428EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82BB86A4-E1BA-411C-B3FF-CBE6EC8428EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HeraAssistant</string>
+		</dict>
+	</array>
+</dict>
+</plist>
